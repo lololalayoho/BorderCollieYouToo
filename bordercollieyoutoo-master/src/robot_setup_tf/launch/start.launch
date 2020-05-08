@@ -1,0 +1,6 @@
+<launch>
+  <node pkg="robot_setup_tf" type="tf_broadcaster" name="tf_broadcaster">
+  </node>
+  <node pkg="robot_setup_tf" type="tf_virtual" name="tf_virtual">
+  </node>
+</launch>

@@ -1,0 +1,2 @@
+set(diagnostic_msgs_MESSAGE_FILES "/home/nvidia/catkin_ws/src/common_msg/diagnostic_msgs/msg/DiagnosticArray.msg;/home/nvidia/catkin_ws/src/common_msg/diagnostic_msgs/msg/DiagnosticStatus.msg;/home/nvidia/catkin_ws/src/common_msg/diagnostic_msgs/msg/KeyValue.msg")
+set(diagnostic_msgs_SERVICE_FILES "/home/nvidia/catkin_ws/src/common_msg/diagnostic_msgs/srv/AddDiagnostics.srv;/home/nvidia/catkin_ws/src/common_msg/diagnostic_msgs/srv/SelfTest.srv")

@@ -1,0 +1,2 @@
+set(trajectory_msgs_MESSAGE_FILES "/home/nvidia/catkin_ws/src/common_msg/trajectory_msgs/msg/JointTrajectory.msg;/home/nvidia/catkin_ws/src/common_msg/trajectory_msgs/msg/JointTrajectoryPoint.msg;/home/nvidia/catkin_ws/src/common_msg/trajectory_msgs/msg/MultiDOFJointTrajectory.msg;/home/nvidia/catkin_ws/src/common_msg/trajectory_msgs/msg/MultiDOFJointTrajectoryPoint.msg")
+set(trajectory_msgs_SERVICE_FILES "")
